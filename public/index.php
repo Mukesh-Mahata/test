@@ -1,4 +1,10 @@
+
 <?php
+putenv("APP_NAME=MyLaravelApp");
+putenv("APP_ENV=production");
+putenv("APP_KEY=base64:your_app_key_herebase64:DghuO1PYBrQqSyY9zJh6IxDDUxlyWFscECJ6jp8skdw=");
+putenv("APP_DEBUG=false");
+putenv("APP_URL=https://yourdomain.com");
 
 use Illuminate\Foundation\Application;
 use Illuminate\Http\Request;
