@@ -87,7 +87,7 @@
 </head>
 <body>
     <header>
-        <img src="https://avatars.githubusercontent.com/u/991" alt="Mukesh Mahata" class="profile-img">
+        <img src="/mukesh.jpg" alt="Mukesh Mahata" class="profile-img">
         <h1>Mukesh Mahata</h1>
         <p>Software Developer | Computer Science Graduate</p>
     </header>
@@ -103,7 +103,7 @@
             <ul>
                 <li>
                     <strong>Bachelor of Technology in Computer Science</strong><br>
-                    Indian Institute of Technology (IIT), 2020 - 2024
+                    Far Western University (FWU), 2021 - 2025
                 </li>
                 <!-- Add more education if needed -->
             </ul>
@@ -145,7 +145,7 @@
         <section class="contact">
             <h2>Contact</h2>
             <div class="contact-info">
-                <p>Email: <a href="mailto:mukesh.mahata@example.com">mukesh.mahata@example.com</a></p>
+                <p>Email: <a href="mailto:mukesh.mahata83@gmail.com">mukesh.mahata83@gmail.com</a></p>
                 <p>
                     <a href="https://github.com/mukeshmahata" target="_blank">GitHub</a> |
                     <a href="https://linkedin.com/in/mukeshmahata" target="_blank">LinkedIn</a>
