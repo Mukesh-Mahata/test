@@ -87,7 +87,7 @@
 </head>
 <body>
     <header>
-        <img src="/mukesh.jpg" alt="Mukesh Mahata" class="profile-img">
+        <img src="https://wallpapers.com/images/high/aesthetic-anime-profile-pictures-act70lmrgm5gxgbk.webp" alt="Mukesh Mahata" class="profile-img">
         <h1>Mukesh Mahata</h1>
         <p>Software Developer | Computer Science Graduate</p>
     </header>
